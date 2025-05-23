@@ -3,7 +3,7 @@ public class NumberPyramid {
     {  
       
         int n = 5;
-        for (int i = 1; i <= n; i++) {
+        for (int i = 11; i <= n; i++) {
             for (int j = n; j > i; j--) {
                 System.out.print(" ");
             }
